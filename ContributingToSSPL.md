@@ -6,6 +6,7 @@
    * [1.3.1 Clone the cortx-sspl repository](#131-Clone-the-cortx-sspl-repository)
    * [1.3.2 Code Commits](#132-Code-commits)
    * [1.3.3 Create a Pull Request](#133-Create-a-Pull-Request)
+    - [1.3.3.1 Test](#1331-Test)
 - [1.4 Run Jenkins and System Tests](#14-Run-Jenkins-and-System-Tests)
 - [FAQs](FAQs)
 
@@ -181,6 +182,8 @@ You can make changes to the code and save them in your files.
 3. Select **main** from the Branches/Tags drop-down list.
 4. Click **Create pull request** to create the pull request.
 5. Add reviewers to your pull request to review and provide feedback on your changes.
+
+#### 1.3.3.1 Test
 
 ## 1.4 Run Jenkins and System Tests
 
