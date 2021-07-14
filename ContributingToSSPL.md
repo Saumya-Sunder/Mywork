@@ -1,12 +1,13 @@
 # Contribute to SSPL
 
-- [1.0 Prerequisites](#10-Prerequisites)
-- [1.2 Set up Git on your Development Box](#12-Set-Up-Git-on-your-Development-Box)
-- [1.3 Submit your changes](#13-Submit-your-Changes)
+* [1.0 Prerequisites](#10-Prerequisites)
+* [1.2 Set up Git on your Development Box](#12-Set-Up-Git-on-your-Development-Box)
+* [1.3 Submit your changes](#13-Submit-your-Changes)
    * [1.3.1 Clone the cortx-sspl repository](#131-Clone-the-cortx-sspl-repository)
    * [1.3.2 Code Commits](#132-Code-commits)
    * [1.3.3 Create a Pull Request](#133-Create-a-Pull-Request)
-    - [1.3.3.1 Test](#1331-Test)
+     * [1.3.3.1 Test](#1331-Test)
+        * [1.3.3.1 Test](#1331-Test)
 - [1.4 Run Jenkins and System Tests](#14-Run-Jenkins-and-System-Tests)
 - [FAQs](FAQs)
 
