@@ -186,6 +186,8 @@ You can make changes to the code and save them in your files.
 
 #### 1.3.3.1 Test
 
+Please refer to the [Preprequisites section](https://github.com/Saumya-Sunder/Mywork/blob/master/ContributingToSSPL.md#10-prerequisites) to ensure you have all the dependencies installed before you proceed with the next step  
+
 ## 1.4 Run Jenkins and System Tests
 
 Creating a pull request automatically triggers Jenkins jobs and System tests. To familiarize yourself with jenkins, please visit the [Jenkins wiki page](https://en.wikipedia.org/wiki/Jenkins_(software)).
